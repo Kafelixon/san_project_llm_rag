@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tyrannosaurus Rex",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "habitat": "North America (forests, swamps, open plains)",
+    "size": "Up to 12 meters (40 feet) long, 6 meters (20 feet) tall, 9 tons",
+    "description": "Tyrannosaurus Rex, often abbreviated as T-Rex, was one of the largest land predators of all time. It had a massive skull, powerful jaws with serrated teeth, and small, two-fingered forelimbs. Its hind legs were strong and muscular, suggesting it was capable of running.",
+    "fun_fact": "Despite its fearsome reputation, some scientists believe T-Rex might have been a scavenger as much as a hunter, or an opportunistic predator."
+  },
+  {
+    "name": "Triceratops",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "habitat": "North America (forests, plains)",
+    "size": "Up to 9 meters (30 feet) long, 3 meters (10 feet) tall, 12 tons",
+    "description": "Triceratops was a large, quadrupedal herbivore characterized by its large bony frill and three horns on its face. The frill likely served for defense against predators like T-Rex, and possibly for display or species recognition. It had a parrot-like beak for cropping tough vegetation.",
+    "fun_fact": "The name Triceratops means 'three-horned face'."
+  },
+  {
+    "name": "Velociraptor",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "habitat": "Central Asia (arid environments)",
+    "size": "Around 2 meters (6.5 feet) long, 0.5 meters (1.6 feet) tall, 15 kg (33 lbs)",
+    "description": "Velociraptor was a small, agile, feathered carnivore known for its large, sickle-shaped claw on each hind foot, which it likely used to incapacitate prey. It had a long, stiffened tail for balance and was a fast runner.",
+    "fun_fact": "Unlike its depiction in movies, Velociraptor was actually about the size of a turkey and covered in feathers."
+  },
+  {
+    "name": "Stegosaurus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "habitat": "Western North America, Europe (woodlands, floodplains)",
+    "size": "Up to 9 meters (30 feet) long, 4 meters (13 feet) tall, 5 tons",
+    "description": "Stegosaurus was a large, herbivorous dinosaur easily recognizable by the double row of large, kite-shaped plates along its back and the four long spikes on its tail, known as a 'thagomizer'. Its brain was remarkably small for its body size.",
+    "fun_fact": "The function of Stegosaurus's back plates is debated, with theories ranging from defense to thermoregulation or display."
+  },
+  {
+    "name": "Brachiosaurus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "habitat": "North America, Africa (floodplains, open forests)",
+    "size": "Up to 26 meters (85 feet) long, 16 meters (52 feet) tall, 56 tons",
+    "description": "Brachiosaurus was a massive, long-necked, quadrupedal dinosaur, one of the tallest animals to ever live. Its front legs were longer than its hind legs, giving it a giraffe-like stance, ideal for browsing on high foliage. It had a relatively short, thick tail.",
+    "fun_fact": "Brachiosaurus means 'arm lizard', referring to its longer forelimbs."
+  }
+]
+
+
